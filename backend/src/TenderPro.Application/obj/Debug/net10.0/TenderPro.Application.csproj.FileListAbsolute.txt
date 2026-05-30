@@ -1,0 +1,15 @@
+c:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\bin\Debug\net10.0\TenderPro.Application.deps.json
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\bin\Debug\net10.0\TenderPro.Application.dll
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\bin\Debug\net10.0\TenderPro.Application.pdb
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\bin\Debug\net10.0\TenderPro.Domain.dll
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\bin\Debug\net10.0\TenderPro.Domain.pdb
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\obj\Debug\net10.0\TenderPro.Application.csproj.AssemblyReference.cache
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\obj\Debug\net10.0\TenderPro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\obj\Debug\net10.0\TenderPro.Application.AssemblyInfoInputs.cache
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\obj\Debug\net10.0\TenderPro.Application.AssemblyInfo.cs
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\obj\Debug\net10.0\TenderPro.Application.csproj.CoreCompileInputs.cache
+c:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\obj\Debug\net10.0\TenderPr.4A783EED.Up2Date
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\obj\Debug\net10.0\TenderPro.Application.dll
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\obj\Debug\net10.0\refint\TenderPro.Application.dll
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\obj\Debug\net10.0\TenderPro.Application.pdb
+c:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Application\obj\Debug\net10.0\ref\TenderPro.Application.dll
