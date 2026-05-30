@@ -1,0 +1,11 @@
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Domain\bin\Debug\net10.0\TenderPro.Domain.deps.json
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Domain\bin\Debug\net10.0\TenderPro.Domain.dll
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Domain\bin\Debug\net10.0\TenderPro.Domain.pdb
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Domain\obj\Debug\net10.0\TenderPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Domain\obj\Debug\net10.0\TenderPro.Domain.AssemblyInfoInputs.cache
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Domain\obj\Debug\net10.0\TenderPro.Domain.AssemblyInfo.cs
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Domain\obj\Debug\net10.0\TenderPro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Domain\obj\Debug\net10.0\TenderPro.Domain.dll
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Domain\obj\Debug\net10.0\refint\TenderPro.Domain.dll
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Domain\obj\Debug\net10.0\TenderPro.Domain.pdb
+C:\Users\tejal\Downloads\TenderPro\backend\src\TenderPro.Domain\obj\Debug\net10.0\ref\TenderPro.Domain.dll
